@@ -1,0 +1,17 @@
+What I Learned:
+Dynamic Memory:
+
+I learned how to ask the computer to give me memory (using new) when I don’t know the size in advance, like when I needed an array for the reverse() function or when I created a Contact structure.
+I also learned that it’s important to give back the memory (using delete or delete[]) when I’m done, so I don’t waste it.
+User Input:
+
+I found out how to take input from the user using cin for numbers and getline() for text. There can be problems when switching between these, but I learned that using cin.ignore() clears any extra characters that cause these issues.
+Structs:
+
+I learned how to create a struct called Contact, which is like a box that holds multiple pieces of data (name, last name, and phone number). I also learned how to work with pointers and references to these structs in functions.
+Arrays:
+
+I practiced working with arrays, especially when the size of the array is based on what the user tells me. I also learned how to print the array in reverse order.
+Handling Errors in Input:
+
+I learned how to check if the user enters valid input, like a number within a certain range, and give them a message if they enter something wrong.
